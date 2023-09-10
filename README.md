@@ -1,5 +1,4 @@
-# 6410615022.github.io
-<img src="https://drive.google.com/file/d/1wNsAS8kKYGCHlY4U4Er21if93dNjCI_m/preview" width="609">
+<img src="https://github.com/6410615022/6410615022.github.io/blob/main/net.JPG" width="509"></img>
 
 **Name**
 
