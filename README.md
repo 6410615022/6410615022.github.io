@@ -1,4 +1,6 @@
-<img src="https://github.com/6410615022/6410615022.github.io/blob/main/net.JPG" width="509">
+# ABOUT ME
+
+![Image](https://github.com/6410615022/6410615022.github.io/blob/main/net.JPG)
 
 **Name**
 
